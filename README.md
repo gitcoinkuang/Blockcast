@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/ae2acd06-9869-4d23-880b-ba4caad8cf71)
 
 ## 你需要准备的东西
-* CPU>2和内存大于500M以上的VPS
+* CPU>2和内存大于500M以上的VPS，如果你没有vps，可以选择我使用的[Hosting VPS](https://the.hosting/?from=641421)，配置价格都合适
 * 一个电子邮箱或者谷歌账户
 * 推特账户和Discord账户以及一个SOL钱包(无需私钥仅用于社交绑定)
 * 系统我选择ubuntu
